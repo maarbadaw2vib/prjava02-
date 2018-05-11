@@ -24,7 +24,8 @@ public class Prjava02 {
             System.out.println("HOLA");
             System.out.println("CREACIO D'UNA BRANCA DEL PROJECTE PRJAVA02 MARC");
             System.out.println("AFEGINT MES CODI AL PROJECTE PRJAVA02 DE LA BRANCA PRJAVA00 MARC");
-            System.out.println("hostname="+hostname);
+            System.out.println("AFEGINT  CODI A LA BRANCA BRANCA01 DEL PROJECTE PRJAVA02 MARC");            
+	    System.out.println("hostname="+hostname);
             System.out.println("Nom de l'usuari: " + System.getProperty("user.name"));
             System.out.println("Carpeta Personal: " + System.getProperty("user.home"));
             System.out.println("Sistema operatiu: " + System.getProperty("os.name"));
